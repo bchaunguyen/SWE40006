@@ -1,0 +1,31 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+	<Fragment>
+		<ComponentGroup Id="ExampleComponents" Directory="INSTALLFOLDER">
+			<Component Id="C" Guid="*">
+				<File Id="TaskC.exe"
+					  Source="$(var.TaskC.TargetDir)TaskC.exe"
+					  KeyPath="yes" />
+			</Component>
+			
+			<Component Id="MainExecutable" Guid="*">
+				<File Id="ETA.exe"
+					  Source="$(var.ETA.TargetDir)ETA.exe"
+					  KeyPath="yes" />
+			</Component>
+
+
+			<Component Id="IncomeLibrary" Guid="*">
+				<File Id="Income.dll"
+					  Source="$(var.ETA.TargetDir)Income.dll"
+					  KeyPath="yes" />
+			</Component>
+
+			<Component Id="ScoreLibrary" Guid="*">
+				<File Id="Score.dll"
+					  Source="$(var.ETA.TargetDir)Score.dll"
+					  KeyPath="yes" />
+			</Component>
+
+		</ComponentGroup>
+	</Fragment>
+</Wix>

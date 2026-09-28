@@ -1,0 +1,6 @@
+C:\Users\chauu\source\repos\ETA\Income\bin\Release\Income.dll
+C:\Users\chauu\source\repos\ETA\Income\bin\Release\Income.pdb
+C:\Users\chauu\source\repos\ETA\Income\obj\Release\Income.csproj.AssemblyReference.cache
+C:\Users\chauu\source\repos\ETA\Income\obj\Release\Income.csproj.CoreCompileInputs.cache
+C:\Users\chauu\source\repos\ETA\Income\obj\Release\Income.dll
+C:\Users\chauu\source\repos\ETA\Income\obj\Release\Income.pdb

@@ -1,0 +1,10 @@
+﻿<Project Sdk="WixToolset.Sdk/7.0.0">
+  <ItemGroup>
+    <ProjectReference Include="..\ETA\ETA.csproj" />
+    <ProjectReference Include="..\Income\Income.csproj" />
+    <ProjectReference Include="..\Score\Score.csproj" />
+  </ItemGroup>
+	<PropertyGroup>
+		<AcceptEula>wix7</AcceptEula>
+	</PropertyGroup>
+</Project>

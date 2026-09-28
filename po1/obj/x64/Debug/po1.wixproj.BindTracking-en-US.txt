@@ -1,0 +1,7 @@
+BuiltContentOutput	C:\Users\chauu\source\repos\ETA\po1\obj\x64\Debug\en-US\cab1.cab
+BuiltPdbOutput	C:\Users\chauu\source\repos\ETA\po1\obj\x64\Debug\en-US\po1.wixpdb
+BuiltTargetOutput	C:\Users\chauu\source\repos\ETA\po1\obj\x64\Debug\en-US\po1.msi
+Input	C:\Users\chauu\source\repos\ETA\ETA\bin\Debug\ETA.exe
+Input	C:\Users\chauu\source\repos\ETA\ETA\bin\Debug\Income.dll
+Input	C:\Users\chauu\source\repos\ETA\ETA\bin\Debug\Score.dll
+Intermediate	C:\Users\chauu\source\repos\ETA\po1\obj\x64\Debug\en-US\cab1.cab

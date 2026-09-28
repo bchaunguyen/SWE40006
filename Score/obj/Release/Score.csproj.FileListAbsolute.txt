@@ -1,0 +1,6 @@
+C:\Users\chauu\source\repos\ETA\Score\bin\Release\Score.dll
+C:\Users\chauu\source\repos\ETA\Score\bin\Release\Score.pdb
+C:\Users\chauu\source\repos\ETA\Score\obj\Release\Score.csproj.AssemblyReference.cache
+C:\Users\chauu\source\repos\ETA\Score\obj\Release\Score.csproj.CoreCompileInputs.cache
+C:\Users\chauu\source\repos\ETA\Score\obj\Release\Score.dll
+C:\Users\chauu\source\repos\ETA\Score\obj\Release\Score.pdb
