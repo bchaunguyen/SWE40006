@@ -1,0 +1,5 @@
+BuiltContentOutput	C:\Users\chauu\source\repos\Task1.1\demo\obj\x64\Debug\en-US\cab1.cab
+BuiltPdbOutput	C:\Users\chauu\source\repos\Task1.1\demo\obj\x64\Debug\en-US\demo.wixpdb
+BuiltTargetOutput	C:\Users\chauu\source\repos\Task1.1\demo\obj\x64\Debug\en-US\demo.msi
+Input	C:\Users\chauu\source\repos\Task1.1\Task1.1\bin\Debug\Task1.1.exe
+Intermediate	C:\Users\chauu\source\repos\Task1.1\demo\obj\x64\Debug\en-US\cab1.cab

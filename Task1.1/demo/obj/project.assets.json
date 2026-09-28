@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "targets": {
+    "native,Version=v0.0": {},
+    "native,Version=v0.0/win": {},
+    "native,Version=v0.0/win-arm64": {},
+    "native,Version=v0.0/win-x64": {},
+    "native,Version=v0.0/win-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "native,Version=v0.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\chauu\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\chauu\\source\\repos\\Task1.1\\demo\\demo.wixproj",
+      "projectName": "demo",
+      "projectPath": "C:\\Users\\chauu\\source\\repos\\Task1.1\\demo\\demo.wixproj",
+      "packagesPath": "C:\\Users\\chauu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chauu\\source\\repos\\Task1.1\\demo\\obj\\",
+      "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
+      "configFilePaths": [
+        "C:\\Users\\chauu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "native"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "native": {
+          "framework": "native",
+          "targetAlias": "native",
+          "projectReferences": {}
+        }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "native": {
+        "framework": "native",
+        "targetAlias": "native"
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-arm64": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

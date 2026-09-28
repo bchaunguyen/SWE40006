@@ -1,0 +1,12 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+	<Fragment>
+		<ComponentGroup Id="ExampleComponents" Directory="INSTALLFOLDER">
+
+			<Component Id="MainExecutable" Guid="*">
+				<File Id="Task1.2.exe"
+					  Source="$(var.Task1.2.TargetDir)Task1.2.exe"
+					  KeyPath="yes" />
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>

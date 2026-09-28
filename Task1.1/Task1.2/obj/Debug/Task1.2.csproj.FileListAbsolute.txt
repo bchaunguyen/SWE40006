@@ -1,0 +1,15 @@
+C:\Users\chauu\source\repos\Task1.1\Task1.2\obj\Debug\Task1.2.csproj.AssemblyReference.cache
+C:\Users\chauu\source\repos\Task1.1\Task1.2\obj\Debug\Task1._2.Form1.resources
+C:\Users\chauu\source\repos\Task1.1\Task1.2\obj\Debug\Task1._2.Properties.Resources.resources
+C:\Users\chauu\source\repos\Task1.1\Task1.2\obj\Debug\Task1.2.csproj.GenerateResource.cache
+C:\Users\chauu\source\repos\Task1.1\Task1.2\obj\Debug\Task1.2.csproj.CoreCompileInputs.cache
+C:\Users\chauu\source\repos\Task1.1\Task1.2\bin\Debug\Task1.2.exe.config
+C:\Users\chauu\source\repos\Task1.1\Task1.2\bin\Debug\Task1.2.exe
+C:\Users\chauu\source\repos\Task1.1\Task1.2\bin\Debug\Task1.2.pdb
+C:\Users\chauu\source\repos\Task1.1\Task1.2\bin\Debug\Incomes.dll
+C:\Users\chauu\source\repos\Task1.1\Task1.2\bin\Debug\Scores.dll
+C:\Users\chauu\source\repos\Task1.1\Task1.2\bin\Debug\Incomes.pdb
+C:\Users\chauu\source\repos\Task1.1\Task1.2\bin\Debug\Scores.pdb
+C:\Users\chauu\source\repos\Task1.1\Task1.2\obj\Debug\Task1.2.csproj.Up2Date
+C:\Users\chauu\source\repos\Task1.1\Task1.2\obj\Debug\Task1.2.exe
+C:\Users\chauu\source\repos\Task1.1\Task1.2\obj\Debug\Task1.2.pdb

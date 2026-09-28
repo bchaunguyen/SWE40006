@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../../../../../source/repos/Task1.1/demo/demo.wixproj" Type="b7dd6f7e-def8-4e67-b5b7-07ef123db6f0">
+    <Platform Solution="*|Any CPU" Project="x64" />
+  </Project>
+  <Project Path="../../../../../source/repos/Task1.1/Scores/Scores.csproj" />
+  <Project Path="../../../../../source/repos/Task1.1/Task1.1/Task1.1.csproj" />
+  <Project Path="../../../../../source/repos/Task1.1/Task1.2/Task1.2.csproj" />
+  <Project Path="Incomes/Incomes.csproj" Id="4365c9b3-6995-4b6a-a1e7-29eb98e17e23" />
+</Solution>

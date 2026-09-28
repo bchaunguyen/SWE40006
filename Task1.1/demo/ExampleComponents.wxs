@@ -1,0 +1,9 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Fragment>
+    <ComponentGroup Id="ExampleComponents" Directory="INSTALLFOLDER">
+      <Component>
+        <File Source="$(var.Task1.1.TargetDir)Task1.1.exe" />
+      </Component>
+    </ComponentGroup>
+  </Fragment>
+</Wix>

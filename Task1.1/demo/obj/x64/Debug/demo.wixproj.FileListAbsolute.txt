@@ -1,0 +1,8 @@
+C:\Users\chauu\source\repos\Task1.1\demo\bin\x64\Debug\en-US\demo.msi
+C:\Users\chauu\source\repos\Task1.1\demo\bin\x64\Debug\en-US\cab1.cab
+C:\Users\chauu\source\repos\Task1.1\demo\bin\x64\Debug\en-US\demo.wixpdb
+C:\Users\chauu\source\repos\Task1.1\demo\obj\x64\Debug\demo.wixproj.CoreCompileInputs.cache
+C:\Users\chauu\source\repos\Task1.1\demo\obj\x64\Debug\en-US\cab1.cab
+C:\Users\chauu\source\repos\Task1.1\demo\obj\x64\Debug\en-US\demo.msi
+C:\Users\chauu\source\repos\Task1.1\demo\obj\x64\Debug\en-US\demo.wixpdb
+C:\Users\chauu\source\repos\Task1.1\demo\obj\x64\Debug\demo.wixproj.BindTracking-en-US.txt

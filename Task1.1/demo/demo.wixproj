@@ -1,0 +1,8 @@
+﻿<Project Sdk="WixToolset.Sdk/7.0.0">
+  <ItemGroup>
+    <ProjectReference Include="..\Task1.1\Task1.1.csproj" />
+  </ItemGroup>
+	<PropertyGroup>
+		<AcceptEula>wix7</AcceptEula>
+	</PropertyGroup>
+</Project>
