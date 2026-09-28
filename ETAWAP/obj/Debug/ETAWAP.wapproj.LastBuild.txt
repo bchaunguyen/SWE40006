@@ -1,0 +1,15 @@
+C:\Users\chauu\source\repos\ETA\ETAWAP\Images\SplashScreen.scale-200.png
+C:\Users\chauu\source\repos\ETA\ETAWAP\Images\LockScreenLogo.scale-200.png
+C:\Users\chauu\source\repos\ETA\ETAWAP\Images\Square150x150Logo.scale-200.png
+C:\Users\chauu\source\repos\ETA\ETAWAP\Images\Square44x44Logo.scale-200.png
+C:\Users\chauu\source\repos\ETA\ETAWAP\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\chauu\source\repos\ETA\ETAWAP\Images\StoreLogo.png
+C:\Users\chauu\source\repos\ETA\ETAWAP\Images\Wide310x150Logo.scale-200.png
+C:\Users\chauu\source\repos\ETA\ETAWAP\bin\AnyCPU\Debug\resources.pri
+C:\Users\chauu\source\repos\ETA\Income\bin\Debug\Income.dll
+C:\Users\chauu\source\repos\ETA\Score\bin\Debug\Score.dll
+C:\Users\chauu\source\repos\ETA\Income\bin\Debug\Income.pdb
+C:\Users\chauu\source\repos\ETA\Score\bin\Debug\Score.pdb
+C:\Users\chauu\source\repos\ETA\ETA\bin\Debug\ETA.exe
+C:\Users\chauu\source\repos\ETA\ETA\bin\Debug\ETA.exe.config
+C:\Users\chauu\source\repos\ETA\ETA\bin\Debug\ETA.pdb

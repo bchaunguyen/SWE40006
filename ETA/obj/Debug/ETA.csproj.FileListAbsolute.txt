@@ -1,0 +1,14 @@
+C:\Users\chauu\source\repos\ETA\ETA\bin\Debug\ETA.exe.config
+C:\Users\chauu\source\repos\ETA\ETA\bin\Debug\ETA.exe
+C:\Users\chauu\source\repos\ETA\ETA\bin\Debug\ETA.pdb
+C:\Users\chauu\source\repos\ETA\ETA\bin\Debug\Income.dll
+C:\Users\chauu\source\repos\ETA\ETA\bin\Debug\Score.dll
+C:\Users\chauu\source\repos\ETA\ETA\bin\Debug\Income.pdb
+C:\Users\chauu\source\repos\ETA\ETA\bin\Debug\Score.pdb
+C:\Users\chauu\source\repos\ETA\ETA\obj\Debug\ETA.csproj.AssemblyReference.cache
+C:\Users\chauu\source\repos\ETA\ETA\obj\Debug\ETA.Properties.Resources.resources
+C:\Users\chauu\source\repos\ETA\ETA\obj\Debug\ETA.csproj.GenerateResource.cache
+C:\Users\chauu\source\repos\ETA\ETA\obj\Debug\ETA.csproj.CoreCompileInputs.cache
+C:\Users\chauu\source\repos\ETA\ETA\obj\Debug\ETA.csproj.Up2Date
+C:\Users\chauu\source\repos\ETA\ETA\obj\Debug\ETA.exe
+C:\Users\chauu\source\repos\ETA\ETA\obj\Debug\ETA.pdb
